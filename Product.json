@@ -1,0 +1,607 @@
+[{
+  "_id": {
+    "$oid": "64537a2168329175b883ebbf"
+  },
+  "categories": [
+    "men",
+    "clothes",
+    "tshirt",
+    "summer_wear"
+  ],
+  "title": "Polo Tshirt with horse",
+  "desc": "Pure natural cotton, wash proof and suitable for summer",
+  "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/w/l/w/xl-matty-horse-print-lill-smile-original-imagnd6gra2cg3k3.jpeg?q=70",
+  "size": "xl",
+  "color": "Grey",
+  "price": 350,
+  "createdAt": {
+    "$date": "2023-05-04T09:25:53.581Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-19T08:42:18.053Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6453852f4faec74b8879085b"
+  },
+  "categories": [
+    "men",
+    "clothes",
+    "tshirt",
+    "summer_wear"
+  ],
+  "title": "Polo Tshirt with horse",
+  "desc": "Pure natural cotton, wash proof and suitable for summer",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20220414/EXK1/62580776aeb26921af214747/-473Wx593H-464179937-green-MODEL2.jpg",
+  "size": "xl",
+  "color": "Grey",
+  "price": 350,
+  "createdAt": {
+    "$date": "2023-05-04T10:13:03.992Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T10:18:52.079Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6453908757349465b40654f6"
+  },
+  "categories": [
+    "men",
+    "clothes",
+    "tshirt",
+    "summer_wear"
+  ],
+  "title": "Polo Tshirt22",
+  "desc": "Pure cotton, wash proof and suitable for summer",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20220414/EXK1/62580776aeb26921af214747/-473Wx593H-464179937-green-MODEL2.jpg",
+  "size": "xl",
+  "color": "Black",
+  "price": 300,
+  "createdAt": {
+    "$date": "2023-05-04T11:01:27.611Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T11:01:27.611Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645394e157349465b406551b"
+  },
+  "categories": [
+    "men",
+    "women",
+    "clothes",
+    "tshirt",
+    "summer_wear"
+  ],
+  "title": "Denim Jeans",
+  "desc": "Jeans, wash proof and suitable for All seasons",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20220414/EXK1/62580776aeb26921af214747/-473Wx593H-464179937-green-MODEL2.jpg",
+  "size": "32",
+  "color": "Blue",
+  "price": 600,
+  "createdAt": {
+    "$date": "2023-05-04T11:20:01.710Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T11:20:01.710Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645394f457349465b406551d"
+  },
+  "categories": [
+    "women",
+    "clothes",
+    "tshirt",
+    "summer_wear"
+  ],
+  "title": "Crop top",
+  "desc": "Pure cotton, wash proof and suitable for summer",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20220414/EXK1/62580776aeb26921af214747/-473Wx593H-464179937-green-MODEL2.jpg",
+  "size": "xl",
+  "color": "Black",
+  "price": 175,
+  "createdAt": {
+    "$date": "2023-05-04T11:20:20.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T11:20:20.764Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6453950257349465b406551f"
+  },
+  "categories": [
+    "men",
+    "clothes",
+    "all_seasons"
+  ],
+  "title": "Desi Kurta",
+  "desc": "Pure cotton, wash proof and suitable for functions",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20220414/EXK1/62580776aeb26921af214747/-473Wx593H-464179937-green-MODEL2.jpg",
+  "size": "xxl",
+  "color": "White",
+  "price": 200,
+  "createdAt": {
+    "$date": "2023-05-04T11:20:34.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T11:20:34.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64548d7c51b70602446f9ce2"
+  },
+  "categories": [
+    "men",
+    "women",
+    "clothes",
+    "shirt",
+    "summer_wear"
+  ],
+  "title": "Plain Lined Shirt",
+  "desc": "Polyster, wash care and suitable for Summer",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20220414/EXK1/62580776aeb26921af214747/-473Wx593H-464179937-green-MODEL2.jpg",
+  "size": "x",
+  "color": "Pink",
+  "price": 150,
+  "createdAt": {
+    "$date": "2023-05-05T05:00:44.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T05:00:44.227Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64548ea751b70602446f9ced"
+  },
+  "categories": [
+    "men",
+    "clothes",
+    "Jacket",
+    "winter_wear"
+  ],
+  "title": "Denim Jacket",
+  "desc": "Denim, wash care and suitable for Winter",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20220414/EXK1/62580776aeb26921af214747/-473Wx593H-464179937-green-MODEL2.jpg",
+  "size": "l",
+  "color": "Nevy Blue",
+  "price": 350,
+  "createdAt": {
+    "$date": "2023-05-05T05:05:43.697Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T05:05:43.697Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64548ee351b70602446f9cf5"
+  },
+  "categories": [
+    "men",
+    "women",
+    "clothes",
+    "sweater",
+    "winter_wear"
+  ],
+  "title": "sweater",
+  "desc": "Woolen, for Winter",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20220414/EXK1/62580776aeb26921af214747/-473Wx593H-464179937-green-MODEL2.jpg",
+  "size": "xxl",
+  "color": "Orange",
+  "price": 240,
+  "createdAt": {
+    "$date": "2023-05-05T05:06:43.205Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T05:06:43.205Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6454d5bba8b6cf3a3c385b11"
+  },
+  "categories": [
+    "women",
+    "men",
+    "bottle",
+    "steel",
+    "sports"
+  ],
+  "title": "Steel Bottle",
+  "desc": "Stainless steel, Suitable for exercise",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20220414/EXK1/62580776aeb26921af214747/-473Wx593H-464179937-green-MODEL2.jpg",
+  "size": "1000ml",
+  "color": "Black",
+  "price": 70,
+  "createdAt": {
+    "$date": "2023-05-05T10:08:59.828Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T10:08:59.828Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a3ccf11e9d181ccad099"
+  },
+  "categories": [
+    "electronics"
+  ],
+  "title": "Lenovo 23.8 inch Full HD",
+  "desc": "Lenovo 23.8 inch Full HD VA Panel 3-Side Near Edgeless with TUV Eye Care Monitor (D24-20)",
+  "img": "https://rukminim1.flixcart.com/image/416/416/ko8xtow0/monitor/t/a/y/d24-20-66aekac1in-lenovo-original-imag2qwzazcdmqtb.jpeg?q=70",
+  "size": "23.8 Inch",
+  "color": "Black",
+  "price": 90,
+  "createdAt": {
+    "$date": "2023-05-18T04:04:28.252Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:04:28.252Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a470f11e9d181ccad0a4"
+  },
+  "categories": [
+    "electronics"
+  ],
+  "title": "Lenovo Thinkvision",
+  "desc": "T series 23.8 inch Full HD LED Backlit IPS Panel Monitor",
+  "img": "https://rukminim1.flixcart.com/image/416/416/l15bxjk0/monitor/y/a/s/thinkvision-t24m-20-23-8-60-45cms-fhd-ips-1920x1080-monitor-hdmi-original-imagcs4cfdy5juhg.jpeg?q=70",
+  "size": "23.8 Inch",
+  "color": "Black",
+  "price": 30,
+  "createdAt": {
+    "$date": "2023-05-18T04:07:12.412Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:07:12.412Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a51af11e9d181ccad0a9"
+  },
+  "categories": [
+    "electronics"
+  ],
+  "title": "Sansui ",
+  "desc": "Full HD LED Smart Android TV with Android 11 & Dolby Audio",
+  "img": "https://rukminim1.flixcart.com/image/416/416/xif0q/television/h/j/w/-original-imagn3yhs9mrcgph.jpeg?q=70",
+  "size": "40 Inch",
+  "color": "Black",
+  "price": 25,
+  "createdAt": {
+    "$date": "2023-05-18T04:10:02.270Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:10:02.270Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a5a5f11e9d181ccad0ae"
+  },
+  "categories": [
+    "electronics"
+  ],
+  "title": "Gangnam Street ",
+  "desc": " Full HD LED Smart Android Based TV",
+  "img": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/o/z/7/ledstvgg43dn-gangnam-street-original-imagkqg3ddcutwne.jpeg?q=70",
+  "size": "43 Inch",
+  "color": "Black",
+  "price": 20,
+  "createdAt": {
+    "$date": "2023-05-18T04:12:21.476Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:12:21.476Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a69cf11e9d181ccad0b6"
+  },
+  "categories": [
+    "men",
+    "clothes",
+    "tshirt"
+  ],
+  "title": "Men Printed T-shirt",
+  "desc": " Typography Round Neck White T-Shirt",
+  "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/f/m/k/4xl-bwtrnful-z55-blive-original-imagnjmycmget8h9.jpeg?q=70",
+  "size": "xs",
+  "color": "White",
+  "price": 10,
+  "createdAt": {
+    "$date": "2023-05-18T04:16:28.869Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:16:28.869Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a6f4f11e9d181ccad0bf"
+  },
+  "categories": [
+    "men",
+    "clothes",
+    "tshirt"
+  ],
+  "title": "Men Printed T-shirt",
+  "desc": " Typography Round Neck Grey T-Shirt",
+  "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/i/b/g/s-half-triangel-black-one-nb-nicky-boy-original-imagmhzyv6b64vfb.jpeg?q=70",
+  "size": "xl",
+  "color": "Grey",
+  "price": 10,
+  "createdAt": {
+    "$date": "2023-05-18T04:17:56.730Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:17:56.730Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a78cf11e9d181ccad0d6"
+  },
+  "categories": [
+    "men",
+    "jacket"
+  ],
+  "title": "Men Denim Jacket",
+  "desc": " Men Solid Denim Jacket",
+  "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/jacket/x/h/p/xl-nmnt-7004-montrez-original-imag5t3nfpbqhgrx-bb.jpeg?q=70",
+  "size": "M",
+  "color": "Blue",
+  "price": 15,
+  "createdAt": {
+    "$date": "2023-05-18T04:20:28.989Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:20:28.989Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a7e4f11e9d181ccad0df"
+  },
+  "categories": [
+    "men",
+    "jacket"
+  ],
+  "title": "Men Denim Jacket",
+  "desc": " Men Solid Denim Jacket",
+  "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/jacket/g/3/j/l-nmnt-7003-montrez-original-imag5t3nx8xtqmh8-bb.jpeg?q=70",
+  "size": "M",
+  "color": "Neavy Blue",
+  "price": 25,
+  "createdAt": {
+    "$date": "2023-05-18T04:21:56.456Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:21:56.456Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a85ef11e9d181ccad0e2"
+  },
+  "categories": [
+    "men",
+    "jacket"
+  ],
+  "title": "Men Denim Jacket",
+  "desc": "Men Washed Casual Jacket",
+  "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/jacket/e/c/x/m-mnt-7021-montrez-original-imag5hb96dcwrpmn-bb.jpeg?q=70",
+  "size": "M",
+  "color": "Maroon",
+  "price": 30,
+  "createdAt": {
+    "$date": "2023-05-18T04:23:58.721Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:23:58.721Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a8e2f11e9d181ccad0e7"
+  },
+  "categories": [
+    "women",
+    "jacket"
+  ],
+  "title": "Women Denim Jacket",
+  "desc": "Women Solid Denim Jacket",
+  "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/jacket/j/0/y/xxl-1-no-mntnw-4023-montrez-original-imag7cp8ggyzn5by-bb.jpeg?q=70",
+  "size": "xl",
+  "color": " Dark Blue",
+  "price": 15,
+  "createdAt": {
+    "$date": "2023-05-18T04:26:10.586Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:26:10.586Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465a977f11e9d181ccad0ed"
+  },
+  "categories": [
+    "women",
+    "jacket"
+  ],
+  "title": "Women Denim Jacket",
+  "desc": "Women Solid Casual Jacket",
+  "img": "https://rukminim1.flixcart.com/image/832/832/kjabs7k0-0/jacket/7/p/w/s-sys-4373-funday-fashion-original-imafyw2xxnbzjgy2.jpeg?q=70",
+  "size": "M",
+  "color": " Green",
+  "price": 17,
+  "createdAt": {
+    "$date": "2023-05-18T04:28:39.787Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:28:39.787Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465aac9f11e9d181ccad0fa"
+  },
+  "categories": [
+    "women",
+    "jacket"
+  ],
+  "title": "Women Denim Jacket",
+  "desc": "Women Solid Casual Jacket",
+  "img": "https://rukminim1.flixcart.com/image/612/612/kl6wx3k0/top/p/q/y/s-bow-top-new-white-moshe-original-imagydc5ntgkrgzd.jpeg?q=70",
+  "size": "xl",
+  "color": " White",
+  "price": 19,
+  "createdAt": {
+    "$date": "2023-05-18T04:34:17.390Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:34:17.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ab65f11e9d181ccad10d"
+  },
+  "categories": [
+    "women",
+    "jacket"
+  ],
+  "title": "Women Blue Sweater",
+  "desc": "Women Solid Round Neck Blue Sweater",
+  "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/sweater/e/o/x/s-mc-sw-3511-blu-mansicollections-original-imagmfv4q2nzzgjj.jpeg?q=70",
+  "size": "xs",
+  "color": " Blue",
+  "price": 25,
+  "createdAt": {
+    "$date": "2023-05-18T04:36:53.134Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:36:53.134Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ab89f11e9d181ccad117"
+  },
+  "categories": [
+    "women",
+    "sweter"
+  ],
+  "title": "Women Blue Sweater",
+  "desc": "Women Solid Round Neck Blue Sweater",
+  "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/sweater/e/o/x/s-mc-sw-3511-blu-mansicollections-original-imagmfv4q2nzzgjj.jpeg?q=70",
+  "size": "xs",
+  "color": " Blue",
+  "price": 25,
+  "createdAt": {
+    "$date": "2023-05-18T04:37:29.420Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:37:29.420Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465abe3f11e9d181ccad11d"
+  },
+  "categories": [
+    "women",
+    "sweter"
+  ],
+  "title": "Women Grey Sweater",
+  "desc": "Women Polka Print Crew Neck Grey Sweater",
+  "img": "https://rukminim1.flixcart.com/image/612/612/joonafk0/sweater/w/k/n/s-ss18psw138-grey-metronaut-original-imafb2cq6q4ngpks.jpeg?q=70",
+  "size": "xl",
+  "color": " Grey",
+  "price": 30,
+  "createdAt": {
+    "$date": "2023-05-18T04:38:59.873Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:38:59.873Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6465ac5cf11e9d181ccad121"
+  },
+  "categories": [
+    "men",
+    "sweter"
+  ],
+  "title": "Men Dark Blue Sweater",
+  "desc": "Men Solid Round Neck Dark Blue Sweater",
+  "img": "https://rukminim1.flixcart.com/image/832/832/k1jlyfk0/sweater/u/z/j/l-9564867-roadster-original-imafh2qzacesfzts.jpeg?q=70",
+  "size": "xl",
+  "color": "Dark Blue",
+  "price": 15,
+  "createdAt": {
+    "$date": "2023-05-18T04:41:00.736Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T04:41:00.736Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646724c12f22912f185d7294"
+  },
+  "categories": [
+    "steel"
+  ],
+  "title": "Idli Maker",
+  "desc": "DIAMOND Jointless Idly Vessel Cum Cooker",
+  "img": "https://rukminim1.flixcart.com/image/416/416/xif0q/idli-maker/b/q/t/4-idly-vessel-4-diamond-original-imaghgfq7zzb9pvm.jpeg?q=70",
+  "size": "xl",
+  "price": 10,
+  "createdAt": {
+    "$date": "2023-05-19T07:26:57.658Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-19T07:26:57.658Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646725c62f22912f185d72ba"
+  },
+  "categories": [
+    "steel"
+  ],
+  "title": " Oil Dispenser ",
+  "desc": "vedika kitchenware 1000 ml Cooking",
+  "img": "https://rukminim1.flixcart.com/image/612/612/kxz0pe80/oil-dispenser/3/i/e/1000-ml-cooking-oil-dispenser-with-handle-vedika-kitchenware-original-imagab6vusgmjjrm.jpeg?q=70",
+  "size": "xl",
+  "color": "silver",
+  "price": 15,
+  "createdAt": {
+    "$date": "2023-05-19T07:31:18.434Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-19T07:31:18.434Z"
+  },
+  "__v": 0
+}]
